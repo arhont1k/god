@@ -6,3 +6,4 @@ if age < 18:
     print("Sorry")
 else:
     print("wellcome, ", name)
+print ("Cherkasy")
